@@ -1,0 +1,2 @@
+# cursopygame
+ 
